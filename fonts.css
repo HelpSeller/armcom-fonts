@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'PoppinsBlack';
+  src: url('./fonts/Poppins-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nelphim';
+  src: url('./fonts/Nephilm.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: 'PoppinsBlack', sans-serif;
+}
+
+h2 {
+  font-family: 'Nelphim', serif;
+}
